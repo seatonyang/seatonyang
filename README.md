@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Seaton Yang!👋
+💻 I'm now a master of @DHU, majored in optical engineering.
+🌱 My research interests range across Image processing and Computer Vision.
+
 
 <!--
 **seatonyang/seatonyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
