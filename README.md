@@ -1,5 +1,5 @@
 ### Hi I'm Seaton Yang!👋
-💻 I'm now a master of @DHU, majored in optical engineering.
+💻 I'm now a master from @DHU, majored in optical engineering.
 
 🌱 My research interests range across Image processing and Computer Vision.
 
